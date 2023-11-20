@@ -1,0 +1,43 @@
+#include <iostream>
+
+using namespace std;
+int main() {
+ // şifre belirleme
+ int sifre;
+ int index = 1;
+ cout << "lutfen sifrenizi belirleyiniz" << endl;
+ cin >> sifre;
+ cout << "sifre belirlendi" << endl;
+ // şifre sorgu
+ int giris;
+ cout << "lutfen sifrenizi giriniz" << endl;
+ cout << endl;
+ cin >> giris;
+ for (int i = 0; i < 01; i++)
+ {
+ if (giris != sifre) {
+ cout << "lutfen tekrar deneyiniz." << endl;
+ cin >> giris;
+ }
+ 
+ };
+ for (int i = 0; i < 01; i++)
+ {
+ if (giris != sifre)
+ {
+ cout << "lutfen tekrar deneyiniz." << endl;
+ cin >> giris;
+ }
+ else if (giris == sifre)
+ {
+ cout << "basariyla giris yapilmistir";
+ }
+ if (sifre != giris)
+ {
+ cout << "3 hatali giris hesap bloke oldu" << endl;
+
+
+ }
+ };
+ return 0;
+}
