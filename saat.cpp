@@ -42,7 +42,7 @@ int main() {
 	system("cls");
 	for (;;) {
 		saniye = saniye++;
-		Sleep(500);
+		
 
 
 		if (saniye == 60) {
@@ -62,17 +62,12 @@ int main() {
 				}
 			}
 		}
-		for (int x=0; x <= 10 ; x = x++) {
-			
-			system("cls");
-			Sleep(50);
-			continue;
-		}
+		
 
 
 
 		cout << gün << ":" << saat << ":" << dakika << ":" << saniye << endl;
-
+Sleep(1000);
 	}
 		
 
