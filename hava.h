@@ -10,7 +10,7 @@ public:
 		
 	}
 	void gidisfiyatý(int _sehir2) {
-arac = 400;
+arac = 1000;
 		
 		string metin;
 		ptr = &_sehir2;
