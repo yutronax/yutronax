@@ -38,9 +38,8 @@ public:
 	};
 	void il_tanýmlama(int _il)
 	{
-		
+
 		ptr = &_il;
-		
 
 
 	}
