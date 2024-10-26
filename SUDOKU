@@ -1,0 +1,208 @@
+
+import numpy as np
+import msvcrt as getch
+
+import os
+
+from colorama import Fore, Style, init
+init(autoreset=True)
+# Renkleri kullanmadan önce başlatın
+
+
+sudoku=np.array([[0,0,0,0,0,0,0,0,0],
+                  [0,0,0,0,0,0,0,0,0],
+                  [0,0,0,0,0,0,0,0,0],
+                  [0,0,0,0,0,0,0,0,0],
+                  [0,0,0,0,0,0,0,0,0],
+                  [0,0,0,0,0,0,0,0,0],
+                  [0,0,0,0,0,0,0,0,0],
+                  [0,0,0,0,0,0,0,0,0],
+                  [0,0,0,0,0,0,0,0,0]])
+sudoku.reshape(9,9)
+
+yatay=0
+dikey=0
+değismeyensayı=np.zeros((9,2))
+
+notchange=[]
+from prettytable import PrettyTable
+stringarray=PrettyTable()
+i=0
+while True:
+    
+    x=np.random.randint(1,9,1)
+    y=np.random.randint(1,9,1)
+    z=np.random.randint(1,9,1)
+    if z  in sudoku[:]:
+       continue
+            
+    elif z  in sudoku[i][:]:
+            continue
+    else:
+                    sudoku[x,y]=z
+                    notchange.append(z)
+                    değismeyensayı[i][0]=x.item()
+                    değismeyensayı[i][1]=y.item()
+                    i+=1
+                    if i==9:
+                        break
+
+
+for i in range(sudoku.shape[0]):
+    for j in range(sudoku.shape[1]):
+        value = sudoku[i, j] 
+        
+        
+        if value in notchange:
+            print(Fore.YELLOW + f"{value:2}", end=' ') 
+        else:
+            print(f"{value:2}", end=' ') 
+    print()
+
+key=getch.getch()
+def değişkenlik():
+    gecmıs=sudoku[yatay][dikey]
+    sudoku[yatay][dikey]=1
+    os.system("cls")
+    
+    sudoku[yatay][dikey]=gecmıs
+    
+
+                                
+    
+def hareketfonk(key):
+    global yatay
+    global dikey
+    if key=='w':
+        yatay-=1
+        if yatay<0:
+            yatay=8
+        değişkenlik()
+        
+        
+        
+        
+
+    elif key=='s':
+        yatay+=1
+        print(yatay)
+        if yatay>8:
+            yatay=0
+        değişkenlik()
+
+        
+        
+
+    elif key=='d':
+        dikey+=1
+        if dikey>8:
+            dikey=0
+        değişkenlik()
+
+        
+
+    elif key=='a':
+        dikey-=1
+        if dikey<0:
+            dikey=8
+        değişkenlik()
+
+       
+    elif key =="c":
+        onay=True
+        degıstır=input()
+        for k in range(9):
+                            x=değismeyensayı[k,0]
+                            y=değismeyensayı[k,1]
+                            if x==yatay and y == dikey:
+                                print("bu sayı değiştirilemez") 
+                                onay=False
+                                break   
+        
+        
+        if int(degıstır) in sudoku[:,dikey]:
+                
+                print("Bu rakam zaten var.")
+                onay=False
+        elif int(degıstır) in sudoku[yatay,:]:
+                
+                print("Bu rakam zaten var.")
+                onay=False
+        
+        if yatay >=3 and yatay<6:
+             basla2,son2=3,6
+             if dikey >=3 and dikey<6:
+                  basla,son=3,6
+             elif dikey >=6:
+                 basla,son=6,9
+             else :
+                  basla,son=0,3
+        elif yatay >=6:
+             basla2,son2=6,9
+             if dikey >=3 and dikey<6:
+                 basla,son=3,6
+             elif dikey >=6:
+                 basla,son=6,9
+             else :
+                 basla,son=0,3
+        else:
+             basla2,son2=0,3
+             if dikey >=3 and dikey<6:
+                 basla,son=3,6
+             elif dikey >=6:
+                 basla,son=6,9
+             else :
+                 basla,son=0,3
+        for i in range(basla2,son2):
+                for j in range(basla,son):
+                        if sudoku[i,j] == int(degıstır):
+                            print("Bu sayı bu kısmada zaten var.")
+                            onay=False
+                            break
+                
+                  
+     
+             
+             
+                
+                
+           
+       
+       
+                        
+        if onay==True:
+            degisfonk(degıstır)
+
+                
+        
+                             
+def degisfonk(degısım):
+    
+    sudoku[yatay][dikey]=int(degısım)
+    
+    key=getch.getch()
+    os.system("cls")
+                                
+
+        
+
+
+while True:
+ hareketfonk(key.decode())
+ for i in range(sudoku.shape[0]):
+    for j in range(sudoku.shape[1]):
+        value = sudoku[i, j] 
+        
+        
+        if value in notchange:
+            print(Fore.YELLOW + f"{value:2}", end=' ') 
+        elif i==yatay and j ==dikey:
+                print(Fore.GREEN + f"{sudoku[yatay][dikey]:2}", end=' ') 
+        else:
+            print(f"{value:2}", end=' ') 
+    print()
+
+
+ key=getch.getch()
+    
+            
