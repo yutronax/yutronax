@@ -1,564 +1,288 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+````markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=220&section=header&text=YUSUF%20%C3%87INAR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER%20%2F%20SYSTEM%20BUILDER&descAlignY=61&descColor=cccccc&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=YUSUF%20%C3%87INAR&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%2F%20SYSTEM%20BUILDER&descAlignY=61&descSize=20&descColor=c9d1d9"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=800&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=AI-NATIVE+DEVELOPER+%7C+CLAUDE+%C2%B7+CURSOR+%C2%B7+CODEX;MULTI-AGENT+SYSTEMS+%7C+NLP+%7C+COMPUTER+VISION;T%C3%9CB%C4%B0TAK+2247-C+STAR+RESEARCHER;AI+INTERN+%40+OBSS+TEKNOLOJ%C4%B0;BUILDING+SYSTEMS%2C+NOT+JUST+DEMOS." alt="Typing Animation"/>
-
-<br/><br/>
+<br>
 
 <a href="https://linkedin.com/in/yusuf-cinar282">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:kuyusuzyusuf123@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/yutronax">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yutronax&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- IDENTITY -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%5B+01+%5D+IDENTITY" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=AI-NATIVE+ENGINEERING;MULTI-AGENT+SYSTEMS;COMPUTER+VISION+%2B+NLP;BUILD+%E2%86%92+TEST+%E2%86%92+BREAK+%E2%86%92+ITERATE" />
 
 </div>
 
+<br>
+
+---
+
 <div align="center">
 
-<table>
-<tr>
+## `WHO IS YUSUF?`
 
-<td width="50%" valign="top">
+<br>
 
-<h3 align="center">Yusuf Çınar</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=800&height=40&lines=I+build+systems%2C+not+just+demos.;I+turn+AI+models+into+working+software.;The+model+is+only+one+part+of+the+system." />
 
-<p align="center">
-AI Engineer focused on building practical AI systems rather than isolated model demos.
-</p>
+<br><br>
 
-<br/>
-
-<p align="center">
-<b>MULTI-AGENT SYSTEMS</b><br/>
-<b>NLP PIPELINES</b><br/>
-<b>COMPUTER VISION</b><br/>
-<b>AI-NATIVE DEVELOPMENT</b>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">CURRENT STACK</h3>
-
-<p align="center">
-
-Python · TypeScript · C++ · SQL
-
-<br/><br/>
-
-PyTorch · Transformers · OpenCV
-
-<br/><br/>
-
-FastAPI · PostgreSQL · Docker
-
-<br/><br/>
-
-Claude · Cursor · Codex
-
-</p>
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/MULTI--AGENT-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI--NATIVE-161B22?style=for-the-badge"/>
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CURRENTLY -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%5B+02+%5D+CURRENTLY+BUILDING" />
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   YUSUF ÇINAR                                                │
+│                                                              │
+│   AI Engineer                                                │
+│   Computer Engineering · Fırat University                   │
+│                                                              │
+│   MULTI-AGENT SYSTEMS    COMPUTER VISION                    │
+│   NLP PIPELINES          AI-NATIVE DEVELOPMENT              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+````
 
 </div>
 
+<br>
+
+---
+
 <div align="center">
 
-<table>
-<tr>
+## `CURRENT STATE`
 
-<td width="50%" align="center">
+<br>
 
-<img src="https://img.shields.io/badge/OBSS_TEKNOLOJİ-AI_INTERN-58A6FF?style=for-the-badge"/>
-
-<br/><br/>
-
-<b>AI-NATIVE DEVELOPMENT</b>
-
-<br/><br/>
-
-ATDD · TEST-FIRST · RED-TEAM
-
-<br/><br/>
-
-Claude · Cursor · Codex
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/TÜBİTAK_2247--C-STAR-58A6FF?style=for-the-badge"/>
-
-<br/><br/>
-
-<b>AI RESEARCHER</b>
-
-<br/><br/>
-
-Computer Vision<br/>
-Satellite Imagery<br/>
-Semantic Segmentation
-
-</td>
-
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=700&color=3FB950&center=true&vCenter=true&width=700&height=45&lines=%5BSYSTEM%5D+OBSS+AI+INTERN+%E2%9C%93;%5BSYSTEM%5D+T%C3%9CB%C4%B0TAK+STAR+RESEARCHER+%E2%9C%93;%5BSYSTEM%5D+AI+SYSTEMS+%E2%86%92+BUILDING;%5BSYSTEM%5D+RESEARCH+%E2%86%92+ACTIVE" />
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- EXPERIENCE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%5B+03+%5D+EXPERIENCE" />
+### `OBSS TEKNOLOJİ A.Ş.`
+
+<img src="https://img.shields.io/badge/AI%20INTERN-JUL%202026%20%E2%86%92%20PRESENT-238636?style=for-the-badge"/>
+
+<br><br>
+
+`AI-Native Development`
+`ATDD` · `Test-First` · `Red-Team`
+`Claude` · `Cursor` · `Codex`
 
 </div>
 
-<table width="100%">
-
-<tr>
-<td width="25%" align="center">
-
-<b>OBSS</b>
-
-<br/>
-
-2026 → PRESENT
-
-</td>
-
-<td width="75%">
-
-<b>AI Intern</b>
-
-<br/><br/>
-
-AI-native development lifecycle using ATDD,
-test-first development and red-team workflows.
-
-<br/><br/>
-
-<code>Claude</code>
-<code>Cursor</code>
-<code>Codex</code>
-
-</td>
-</tr>
-
-<tr>
-<td width="25%" align="center">
-
-<b>MAVI LOJISTIK</b>
-
-<br/>
-
-2025 → 2026
-
-</td>
-
-<td width="75%">
-
-<b>AI Software Developer</b>
-
-<br/><br/>
-
-NLP agent pipeline processing <b>2,000+ WhatsApp messages/day</b>
-using Gemini and Llama 3.1.
-
-<br/><br/>
-
-<b>85–90% automation</b>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<b>3 min → 5 sec</b>
-
-</td>
-</tr>
-
-<tr>
-<td width="25%" align="center">
-
-<b>TÜBİTAK</b>
-
-<br/>
-
-2025
-
-</td>
-
-<td width="75%">
-
-<b>AI Researcher</b>
-
-<br/><br/>
-
-Flood detection using <b>20,000+ Sentinel-2 satellite images</b>
-with U-Net and DeepLabV3+.
-
-<br/><br/>
-
-<b>+12% IoU</b>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<b>+10% generalization</b>
-
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SYSTEMS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%5B+04+%5D+SYSTEMS+ON+GITHUB" />
+### `TÜBİTAK 2247-C STAR`
+
+<img src="https://img.shields.io/badge/AI%20RESEARCHER-2025-8957E5?style=for-the-badge"/>
+
+<br><br>
+
+`Sentinel-2` · `Semantic Segmentation` · `Computer Vision`
+
+<br>
+
+<img src="https://img.shields.io/badge/20K%2B-SATELLITE%20IMAGES-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/U--NET-vs%20DeepLabV3%2B-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/IoU-%2B12%25-161B22?style=flat-square"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<table>
+### `MAVİ LOJİSTİK`
 
-<tr>
+<img src="https://img.shields.io/badge/AI%20SOFTWARE%20DEVELOPER-NOV%202025%20%E2%86%92%20JUN%202026-1f6feb?style=for-the-badge"/>
 
-<td width="33%" align="center">
+<br><br>
 
-<h3>FLOOD DETECTION</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=2%2C000%2B+WHATSAPP+MESSAGES%2FDAY;GEMINI+%2B+LLAMA+3.1;85%E2%80%9390%25+AUTOMATION;3+MINUTES+%E2%86%92+5+SECONDS" />
 
-<p>
-Sentinel-2 satellite segmentation
-</p>
+</div>
 
-<code>PyTorch</code>
-<code>U-Net</code>
-<code>DeepLabV3+</code>
+<br>
 
-<br/><br/>
+---
+
+<div align="center">
+
+## `SELECTED SYSTEMS`
+
+<br>
 
 <a href="https://github.com/yutronax/staj-flood-detection">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yutronax&repo=staj-flood-detection&theme=github_dark&hide_border=true&bg_color=0D1117" />
+
 </a>
 
-</td>
-
-<td width="33%" align="center">
-
-<h3>ViLT VQA</h3>
-
-<p>
-Vision-language question answering
-</p>
-
-<code>Python</code>
-<code>Transformers</code>
-
-<br/><br/>
-
-<a href="https://github.com/yutronax/ViLT-Modeli-ile-Gorsel-Soru-Yanitlama-Sistemi">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>WINDOWSPHERE AI</h3>
-
-<p>
-Natural-language Windows file management
-</p>
-
-<code>FastAPI</code>
-<code>Multi-LLM</code>
-
-<br/><br/>
+ 
 
 <a href="https://github.com/yutronax/windowsphereAI">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yutronax&repo=windowsphereAI&theme=github_dark&hide_border=true&bg_color=0D1117" />
+
 </a>
 
-</td>
+<br>
 
-</tr>
+<a href="https://github.com/yutronax/ViLT-Modeli-ile-Gorsel-Soru-Yanitlama-Sistemi">
 
-<tr>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yutronax&repo=ViLT-Modeli-ile-Gorsel-Soru-Yanitlama-Sistemi&theme=github_dark&hide_border=true&bg_color=0D1117" />
 
-<td width="33%" align="center">
-
-<h3>HOUSE PRICE ML</h3>
-
-<p>
-End-to-end regression pipeline
-</p>
-
-<code>Scikit-learn</code>
-<code>Pandas</code>
-
-<br/><br/>
-
-<a href="https://github.com/yutronax/ev-fiyati-tahmini-ml">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-
-<td width="33%" align="center">
-
-<h3>CHURN ML</h3>
-
-<p>
-Customer churn classification
-</p>
-
-<code>Python</code>
-<code>ML</code>
-
-<br/><br/>
-
-<a href="https://github.com/yutronax/musteri-ayrilma-tahmini-ml">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>GEMINI CHATBOT</h3>
-
-<p>
-LLM-powered chatbot
-</p>
-
-<code>Python</code>
-<code>Gemini API</code>
-
-<br/><br/>
+ 
 
 <a href="https://github.com/yutronax/Gemini_Chatbot">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yutronax&repo=Gemini_Chatbot&theme=github_dark&hide_border=true&bg_color=0D1117" />
+
 </a>
 
-</td>
-
-</tr>
-
-</table>
-
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- STACK -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%5B+05+%5D+TECHNOLOGY+MATRIX" />
+## `TECHNICAL STACK`
 
-<br/><br/>
+<br>
 
-<h3>LANGUAGES</h3>
+<img src="https://skillicons.dev/icons?i=python,typescript,cpp,java,javascript,sql&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=py,ts,cpp,java,js,sql&theme=dark"/>
+<br><br>
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark"/>
 
-<h3>AI / ML / COMPUTER VISION</h3>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,docker,postgresql,mongodb&theme=dark"/>
 
-<br/><br/>
+<br><br>
 
-<h3>BACKEND / INFRASTRUCTURE</h3>
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,docker,postgresql,mongodb,github&theme=dark"/>
-
-<br/><br/>
-
-<h3>AI-NATIVE DEVELOPMENT</h3>
-
-<img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/CODEX-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ENGINEERING LOOP -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%5B+06+%5D+ENGINEERING+LOOP" />
+## `HOW I BUILD`
 
-<br/><br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1300&pause=350&color=AAAAAA&center=true&vCenter=true&width=900&height=45&lines=IDEA+%E2%86%92+PLAN+%E2%86%92+BUILD+%E2%86%92+VERIFY+%E2%86%92+TEST+%E2%86%92+BREAK+%E2%86%92+ITERATE;CLAUDE+%E2%86%92+CURSOR+%E2%86%92+CODEX+%E2%86%92+PRODUCTION;BUILD+%E2%86%92+TEST+%E2%86%92+BREAK+%E2%86%92+ITERATE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=1400&pause=600&color=58A6FF&center=true&vCenter=true&width=850&height=45&lines=IDEA+%E2%86%92+ARCHITECTURE+%E2%86%92+IMPLEMENTATION;IMPLEMENTATION+%E2%86%92+TESTS+%E2%86%92+RED+TEAM;RED+TEAM+%E2%86%92+ITERATE+%E2%86%92+DEPLOY;DEPLOY+%E2%86%92+MONITOR+%E2%86%92+IMPROVE" />
 
-<br/><br/>
+<br><br>
 
-<i>AI is not the product. It is part of the engineering loop.</i>
+```text
+             ┌─────────┐
+             │  IDEA   │
+             └────┬────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │  ARCHITECTURE │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │     BUILD     │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │     TEST      │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │     BREAK     │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │    ITERATE    │
+          └───────┬───────┘
+                  │
+                  ▼
+             ┌─────────┐
+             │ DEPLOY  │
+             └─────────┘
+```
 
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ACTIVITY -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%5B+07+%5D+GITHUB+ACTIVITY" />
+## `GITHUB`
 
-<br/><br/>
+<br>
 
-<img src="https://streak-stats.demolab.com?user=yutronax&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=yutronax&theme=github-dark-blue&hide_border=true&background=0D1117" width="65%"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yutronax&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6" width="90%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yutronax&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" width="85%"/>
 
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION MATRIX -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%5B+08+%5D+SYSTEM+STATUS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=750&height=45&lines=BUILD+SYSTEMS.+NOT+JUST+DEMOS.;MAKE+THE+MODEL+PART+OF+THE+SYSTEM.;AI+%2B+ENGINEERING+%2B+ITERATION." />
 
-<br/><br/>
+<br><br>
 
-<table>
+<img src="https://komarev.com/ghpvc/?username=yutronax&style=flat-square&color=58A6FF&label=VISITORS"/>
 
-<tr>
-<th>DOMAIN</th>
-<th>STATE</th>
-<th>MODE</th>
-</tr>
+<br><br>
 
-<tr>
-<td>AI SYSTEMS</td>
-<td>████████████████████</td>
-<td>ONLINE</td>
-</tr>
-
-<tr>
-<td>COMPUTER VISION</td>
-<td>████████████████████</td>
-<td>ONLINE</td>
-</tr>
-
-<tr>
-<td>NLP PIPELINES</td>
-<td>████████████████████</td>
-<td>ONLINE</td>
-</tr>
-
-<tr>
-<td>MULTI-AGENT</td>
-<td>████████████████░░░░</td>
-<td>BUILDING</td>
-</tr>
-
-</table>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1200&pause=300&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=BUILD+%E2%86%92+TEST+%E2%86%92+BREAK+%E2%86%92+ITERATE;SYSTEMS+OVER+DEMOS;ENGINEERING+OVER+HYPE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,3,30&animation=twinkling"/>
 
 </div>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTACT -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h3>LET'S CONNECT</h3>
-
-<br/>
-
-<a href="https://github.com/yutronax">
-<img src="https://img.shields.io/badge/GITHUB-yutronax-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/yusuf-cinar282">
-<img src="https://img.shields.io/badge/LINKEDIN-yusuf--cinar282-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kuyusuzyusuf123@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=777777&center=true&vCenter=true&width=700&height=35&lines=Design+systems.+Build+systems.+Break+systems.+Improve+systems." />
-
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer&animation=twinkling"/>
+```
