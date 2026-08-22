@@ -32,10 +32,22 @@
 
 <br>
 
-```text
+
 AI SYSTEMS
      │
      ├── Multi-Agent
      ├── Computer Vision
      ├── NLP
      └── Automation
+<br> <img src="https://skillicons.dev/icons?i=python,typescript,cpp,pytorch,opencv,sklearn,fastapi,docker,postgresql&perline=9&theme=dark"/> </div> <br>
+<div align="center">
+SELECTED WORK
+<br> <a href="https://github.com/yutronax/staj-flood-detection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yutronax&repo=staj-flood-detection&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/> </a> <a href="https://github.com/yutronax/windowsphereAI"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yutronax&repo=windowsphereAI&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/> </a> <br> <a href="https://github.com/yutronax/ViLT-Modeli-ile-Gorsel-Soru-Yanitlama-Sistemi"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yutronax&repo=ViLT-Modeli-ile-Gorsel-Soru-Yanitlama-Sistemi&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/> </a> <a href="https://github.com/yutronax/Gemini_Chatbot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yutronax&repo=Gemini_Chatbot&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/> </a> </div> <br>
+<div align="center">
+NOW
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=700&height=35&lines=AI+Intern+%40+OBSS;T%C3%9CB%C4%B0TAK+2247-C+STAR+Researcher;Building+AI-Native+Systems"/> </div> <br>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=yutronax&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="60%"/>
+
+<br><br>
+
+<a href="https://github.com/yutronax"> <img src="https://komarev.com/ghpvc/?username=yutronax&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/> </a> </div> <br> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,50:161B22,100:0D1117&height=110&section=footer&animation=twinkling"/>
