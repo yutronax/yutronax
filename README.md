@@ -5,6 +5,8 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://linkedin.com/in/yusuf-cinar282">LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://yusufcinar.duckdns.org/">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:kuyusuzyusuf123@gmail.com">Email</a>
 </p>
 
@@ -57,14 +59,14 @@
 
 ## Now
 
-AI Intern at **OBSS Teknoloji A.Ş.**  
+AI Intern at **OBSS Teknoloji A.Ş.**
 **TÜBİTAK 2247-C STAR** Researcher
 
 <br>
 
 ## Activity
 
-Building, experimenting, and shipping in public.  
+Building, experimenting, and shipping in public.
 [View contribution activity →](https://github.com/yutronax?tab=overview)
 
 <br>
